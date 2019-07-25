@@ -12,7 +12,8 @@ import numpy
 import matplotlib.pyplot as plt
 import sys
 sys.path.append("../tools/")
-from feature_format import featureFormat, targetFeatureSplit
+from tools.feature_format import featureFormat, targetFeatureSplit
+
 
 
 
